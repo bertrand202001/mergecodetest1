@@ -1,0 +1,45 @@
+[INFO  - 2019-04-21T09:06:41.905Z] GhostDriver - Main - running on port 58514
+[INFO  - 2019-04-21T09:06:42.009Z] Session [c775cb20-6414-11e9-a2f1-49df3031a1b9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-21T09:06:42.009Z] Session [c775cb20-6414-11e9-a2f1-49df3031a1b9] - page.customHeaders:  - {}
+[INFO  - 2019-04-21T09:06:42.009Z] Session [c775cb20-6414-11e9-a2f1-49df3031a1b9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-21T09:06:42.009Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c775cb20-6414-11e9-a2f1-49df3031a1b9
+[ERROR - 2019-04-21T09:06:53.799Z] Session [c775cb20-6414-11e9-a2f1-49df3031a1b9] - page.onError - msg: TypeError: null is not an object (evaluating 'MutationObserver.toString')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-04-21T09:06:53.800Z] Session [c775cb20-6414-11e9-a2f1-49df3031a1b9] - page.onError - stack:
+  (anonymous function) (http://s1.bdstatic.com/r/www/cache/static/bundles/atom_4ec866a.js:14)
+  (anonymous function) (http://s1.bdstatic.com/r/www/cache/static/bundles/atom_4ec866a.js:14)
+  i (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:116)
+  p (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:116)
+  (anonymous function) (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:116)
+  R (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:123)
+  i (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:115)
+  p (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:116)
+  i (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:121)
+  (anonymous function) (http://s1.bdstatic.com/r/www/cache/static/bundles/atom_4ec866a.js:22)
+  i (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:116)
+  p (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:116)
+  d (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:115)
+  n (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:118)
+  i (http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_e86b5ac.js:124)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-04-21T09:11:41.913Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T09:16:41.922Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T09:21:41.935Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T09:26:41.943Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T09:31:41.952Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T09:36:41.961Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T09:41:41.971Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T09:46:41.981Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T09:51:41.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T09:56:41.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T10:01:42.008Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T10:06:42.019Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T10:11:42.026Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T10:16:42.036Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T10:21:42.044Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T10:26:42.054Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T10:31:42.064Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T10:36:42.073Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-21T10:41:42.082Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
